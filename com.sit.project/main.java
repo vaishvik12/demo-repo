@@ -6,8 +6,12 @@ public class main {
         int [] arr = new int[10];
         for (int i = 0; i < 10; i++) {
         System.out.println("");
+<<<<<<< HEAD
         System.out.println("changes made in first branch");
 
+=======
+        System.out.println("changes made to main branch");
+>>>>>>> main
         }
     }
 }
