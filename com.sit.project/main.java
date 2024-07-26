@@ -8,7 +8,7 @@ public class main {
         System.out.println("");
         System.out.println("changes made in first branch");
         System.out.println("changes made to main branch");
-        System.out.println("this is to check merge confilict");
+        System.out.println("change made to main branch");
         }
     }
 }
